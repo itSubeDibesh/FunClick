@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fun Click</string>
+    <string name="clickable_button">Click Me 👆</string>
+    <string name="clickable_button_Start">Start 👆</string>
+    <string name="click_me_label">How fast can you click me?</string>
+    <string name="click_count">0</string>
+    <string name="click_countLabel">Clicks 👆</string>
+    <string name="reset_button">Reset</string>
+    <string name="timeRemainingLabel">Time Remaining ⌚</string>
+    <string name="timeRemaining">0:30</string>
+    <string name="timeOver">Time Over ⌛</string>
+    <string name="timeStarted">Countdown Started! ⌛</string>
+</resources>

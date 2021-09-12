@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clickable_button">Click Me</string>
+    <string name="click_me_label">How fast Can you click me?</string>
+    <string name="click_count">0</string>
+</resources>
